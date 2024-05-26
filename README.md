@@ -22,7 +22,7 @@ pip install pywin32 python-dateutil
 ```
 3. Run the main script to start tracking activities:
 ```bash
-python main.py
+python timer.py
 ```
 
 ## Usage
