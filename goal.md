@@ -33,3 +33,7 @@ Start: 25.05.2024 - 17:18
 https://stackoverflow.com/questions/24217641/how-to-get-the-difference-between-two-dates-in-hours-minutes-and-seconds
 https://stackoverflow.com/questions/12943819/how-to-prettyprint-a-json-file
 Done: 26.05.2024 - 13:07
+
+Start: 26.05.2024 - 19:13
+Commenting
+Done: 26.05.2024 - 20:40
