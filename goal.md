@@ -16,9 +16,9 @@ What's the checklist?
 - [X] eye on what's happening (wya)
   - [X] need to see what website
   - [X] need to see what app
-- [ ] start timer when an app or site is opened
-- [ ] save data to a json file
-- [ ] run in the background
+- [X] start timer when an app or site is opened
+- [X] save data to a json file
+- [X] run in the background
 
 Log
 
@@ -28,3 +28,8 @@ req: win32gui
 - https://stackoverflow.com/questions/10266281/obtain-active-window-using-python
 - https://stackoverflow.com/questions/608809/getting-the-name-of-the-active-window/608814#608814
 Done: 25.05.2024 - 15:38 
+
+Start: 25.05.2024 - 17:18
+https://stackoverflow.com/questions/24217641/how-to-get-the-difference-between-two-dates-in-hours-minutes-and-seconds
+https://stackoverflow.com/questions/12943819/how-to-prettyprint-a-json-file
+Done: 26.05.2024 - 13:07
