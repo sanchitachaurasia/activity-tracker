@@ -26,7 +26,7 @@ def main():
             
             if active_window_name != new_window_name:
                 print(active_window_name)
-                activity_name = new_window_name
+                activity_name = active_window_name
                 
                 if active_window_name:
                     end_time = datetime.datetime.now()
